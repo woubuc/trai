@@ -1,10 +1,15 @@
 # Trai
 Typescript-first server framework
 
+[![npm](https://img.shields.io/npm/v/trai)](https://www.npmjs.com/package/trai)
+[![GitHub](https://img.shields.io/github/license/woubuc/trai)](https://github.com/woubuc/trai/blob/master/LICENSE.txt)
+[![Dependencies](https://david-dm.org/woubuc/trai/status.svg)](https://david-dm.org/woubuc/trai)
+
 #### Project status
 Early development. Not suitable for production use, but feel free to try it out
 and give feedback.
 
+## About trai
 Most existing Node.JS server frameworks are designed to be used with untyped
 Javascript. This means that if you want to add validation, you probably need to
 add (1) a validation schema, and (2) a Typescript interface that redefines this
