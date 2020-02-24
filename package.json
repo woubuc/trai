@@ -1,9 +1,14 @@
 {
   "name": "trai",
+  "description": "Typescript-first Rest API framework",
   "version": "0.0.2",
   "license": "GPL-3.0-or-later",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "author": "Wouter Buckens <wou.buc@gmail.com>",
+  "homepage": "https://github.com/woubuc/trai/blob/master/README.md",
+  "repository": "github:woubuc/trai",
+  "bugs": "https://github.com/woubuc/trai/issues",
   "scripts": {
     "build": "tsc",
     "dev": "tsc --watch"
@@ -22,5 +27,19 @@
   },
   "files": [
     "dist/**/*"
+  ],
+  "keywords": [
+    "rest",
+    "restful",
+    "api",
+    "server",
+    "framework",
+    "typescript",
+    "typed",
+    "strict",
+    "builder",
+    "router",
+    "app",
+    "http"
   ]
 }
