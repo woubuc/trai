@@ -16,12 +16,12 @@
   "dependencies": {
     "find-my-way": "^2.2.1",
     "klaw": "^3.0.0",
-    "route-parser": "^0.0.5"
+    "route-parser": "^0.0.5",
+    "ts-essentials": "^6.0.1"
   },
   "devDependencies": {
     "@types/klaw": "^3.0.0",
     "@types/node": "^13.7.4",
-    "ts-essentials": "^6.0.1",
     "ts-node": "^8.6.2",
     "typescript": "^3.8.2"
   },
