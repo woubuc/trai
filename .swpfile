@@ -1,0 +1,7 @@
+# See https://sweep.woubuc.be/
+
+dist
+node_modules
+
+example/dist
+example/node_modules
